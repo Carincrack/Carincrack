@@ -1,16 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&height=160&section=header&text=Axel%20Ramos%20Villegas&fontSize=46&fontColor=e6edf3&fontAlignY=62&desc=Full%20Stack%20Developer%20%E2%80%94%20Software%20Engineer&descSize=15&descFontColor=6e7681&descAlign=50&descAlignY=80&animation=fadeIn" width="100%"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%"/>
 
 </div>
 
+<div align="center">
+
 <br/>
 
-<div align="center">
+# Axel Ramos Villegas
+
+**Full Stack Developer — Software Engineer**
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/@Carincrack-0d1117?style=flat-square&logo=github&logoColor=e6edf3)](https://github.com/Carincrack)&nbsp;&nbsp;
 ![Location](https://img.shields.io/badge/Costa%20Rica-%F0%9F%87%A8%F0%9F%87%B7-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)&nbsp;&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Carincrack&style=flat-square&color=0d1117&label=profile+views&labelColor=161b22)
+![Views](https://komarev.com/ghpvc/?username=Carincrack&style=flat-square&color=0d1117&label=profile+views&labelColor=161b22)
 
 </div>
 
@@ -26,21 +32,46 @@ I work primarily with TypeScript, React, NestJS, and .NET. What drives my work i
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
+---
+
 ## Stack
 
 <br/>
 
+<table>
+<tr>
+<td valign="middle" width="40%">
+
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%"/>
+
+</td>
+<td valign="top" width="60%">
+
 <div align="center">
 
-**Frontend** &nbsp;—&nbsp; TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TailwindCSS &nbsp;·&nbsp; Vite
+<sub>**Frontend**</sub>
 
-**Backend** &nbsp;—&nbsp; Node.js &nbsp;·&nbsp; NestJS &nbsp;·&nbsp; Express &nbsp;·&nbsp; C# &nbsp;·&nbsp; .NET
+[![Frontend](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,figma&theme=dark)](https://skillicons.dev)
 
-**Data** &nbsp;—&nbsp; PostgreSQL &nbsp;·&nbsp; SQL Server &nbsp;·&nbsp; MySQL
+<sub>**Backend**</sub>
 
-**Infrastructure** &nbsp;—&nbsp; Docker &nbsp;·&nbsp; Git &nbsp;·&nbsp; Azure DevOps &nbsp;·&nbsp; Vercel &nbsp;·&nbsp; Railway
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,cs,dotnet,cpp&theme=dark)](https://skillicons.dev)
+
+<sub>**Data**</sub>
+
+[![Data](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)](https://skillicons.dev)
+
+<sub>**Infrastructure**</sub>
+
+[![Infra](https://skillicons.dev/icons?i=docker,git,github,azure,vercel&theme=dark)](https://skillicons.dev)
 
 </div>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -71,12 +102,26 @@ I work primarily with TypeScript, React, NestJS, and .NET. What drives my work i
 
 ## GitHub
 
-<div align="center">
+<br/>
 
-<img height="158" src="https://github-readme-stats.vercel.app/api?username=Carincrack&show_icons=true&hide_border=true&bg_color=161b22&title_color=e6edf3&icon_color=58a6ff&text_color=6e7681&hide=stars&include_all_commits=true&count_private=true" />&nbsp;
-<img height="158" src="https://github-readme-streak-stats.herokuapp.com/?user=Carincrack&hide_border=true&background=161b22&ring=58a6ff&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=6e7681&dates=6e7681&sideNums=e6edf3&currStreakNum=58a6ff" />
+<table>
+<tr>
+<td valign="middle" width="35%">
 
-</div>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="100%"/>
+
+</td>
+<td valign="top" width="65%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Carincrack&show_icons=true&hide_border=true&bg_color=161b22&title_color=e6edf3&icon_color=58a6ff&text_color=6e7681&hide=stars&include_all_commits=true&count_private=true" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Carincrack&hide_border=true&background=161b22&ring=58a6ff&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=6e7681&dates=6e7681&sideNums=e6edf3&currStreakNum=58a6ff" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
@@ -88,7 +133,7 @@ I work primarily with TypeScript, React, NestJS, and .NET. What drives my work i
 
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&section=footer" width="100%"/>
