@@ -82,12 +82,7 @@ Servicios backend escalables con NestJS y .NET usando CQRS y patrones event-driv
 
 <div align="center">
 
-<a href="https://github.com/Carincrack/DevPlayground">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Carincrack&repo=DevPlayground&hide_border=true&bg_color=161b22&title_color=e6edf3&icon_color=58a6ff&text_color=6e7681"/>
-</a>&nbsp;
-<a href="https://github.com/Carincrack/Progra2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Carincrack&repo=Progra2&hide_border=true&bg_color=161b22&title_color=e6edf3&icon_color=58a6ff&text_color=6e7681"/>
-</a>
+<img src="https://i.ibb.co/j9GhJnMz/Hacienda.gif" alt="Hacienda" width="49%"/>&nbsp;<img src="https://i.ibb.co/N6n4bzXy/Gym.gif" alt="Gym" width="49%"/>
 
 </div>
 
