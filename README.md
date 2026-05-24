@@ -10,16 +10,14 @@
   ↓ IMAGEN 1: Header con tu nombre en letras grandes + subtítulo azul
     Se ve como una ola oscura con "Axel Ramos Villegas" encima
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&text=Axel%20Ramos%20Villegas&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=65&desc=Desarrollador%20Full%20Stack%20%C2%B7%20Ingeniero%20en%20Sistemas%20%C2%B7%20Costa%20Rica%20%F0%9F%87%A8%F0%9F%87%B7&descSize=14&descAlignY=85&descColor=58a6ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&text=Axel%20Ramos%20Villegas&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=65&desc=Ingeniero%20en%20Sistemas%20%C2%B7%20Desarrollador%20Full%20Stack%20%C2%B7%20Costa%20Rica%20%F0%9F%87%A8%F0%9F%87%B7&descSize=14&descAlignY=85&descColor=58a6ff" width="100%"/>
 
-<br/>
 
 <!-- 
   ↓ IMAGEN 2: Texto que escribe y borra solo (animado), en azul
     Rota entre las 3 frases de abajo una por una
 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack+%7C+Ingeniero+en+Sistemas;Arquitectura+Limpia+%7C+Dise%C3%B1o+Orientado+al+Dominio;TypeScript+%C2%B7+React+%C2%B7+NestJS+%C2%B7+.NET;C%C3%B3digo+que+vale+la+pena+leer+%F0%9F%87%A8%F0%9F%87%B7" alt="Texto animado"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Ingeniero+en+Sistemas+%7C+Desarrollador+Full+Stack;Arquitectura+Limpia+%7C+Dise%C3%B1o+Orientado+al+Dominio;TypeScript+%C2%B7+React+%C2%B7+NestJS+%C2%B7+.NET;C%C3%B3digo+que+vale+la+pena+leer+%F0%9F%87%A8%F0%9F%87%B7" alt="Texto animado"/>
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/@Carincrack-0d1117?style=flat-square&logo=github&logoColor=e6edf3)](https://github.com/Carincrack)&nbsp;
