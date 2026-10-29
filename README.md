@@ -162,9 +162,10 @@ Servicios backend escalables con **NestJS y .NET** usando **CQRS** y patrones **
 </td>
 <td valign="top" width="68%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Carincrack&show_icons=true&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=stars&include_all_commits=true&count_private=true&locale=es&card_width=495" width="100%"/>
+<!-- Estas dos tarjetas las genera .github/workflows/stats.yml dentro de tu repo -->
+<img src="./profile/stats.svg" alt="Estadísticas de GitHub" width="100%"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Carincrack&layout=compact&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&locale=es&langs_count=8&card_width=495" width="100%"/>
+<img src="./profile/top-langs.svg" alt="Lenguajes más usados" width="100%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carincrack&hide_border=true&background=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&sideNums=e6edf3&currStreakNum=e6edf3&stroke=30363d&locale=es" width="100%"/>
 
@@ -172,7 +173,8 @@ Servicios backend escalables con **NestJS y .NET** usando **CQRS** y patrones **
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Carincrack&bg_color=161b22&color=58a6ff&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb&hide_border=true&title_color=e6edf3&custom_title=Actividad%20en%20GitHub" width="100%"/>
+<!-- Gráfico 3D de contribuciones (también lo genera stats.yml) -->
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico 3D de contribuciones" width="100%"/>
 
 <!-- Serpiente que se come tus contribuciones (se genera con .github/workflows/snake.yml) -->
 <div align="center">
